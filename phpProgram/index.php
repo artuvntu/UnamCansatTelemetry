@@ -68,6 +68,7 @@
     <section id="showcase">
       <div class="container">
         <h1>Compis</h1> 
+        HOLA<br>
         <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
  <!--        <script async defer 
         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDqYQwm-I1PQmpDh0Dc7G5WF2lz_y0yOFg&callback=initMap">
